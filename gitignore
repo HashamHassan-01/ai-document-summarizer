@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+
+# Generated output from the summarizer
+summary_output.txt
+summary_output.pdf
+
+# NLTK downloaded data (auto re-downloaded on first run)
+nltk_data/
+
+# OS/editor clutter
+.DS_Store
+.vscode/
+.idea/
